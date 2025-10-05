@@ -1,1 +1,2 @@
-This is the "readme" file, changes will be applied later.
+Hello!
+Here we have all the lab files in our introduction to data science course related to the dice game
